@@ -1,0 +1,4 @@
+D:/automobile/build/CMakeFiles/AutoMaintApp.dir
+D:/automobile/build/CMakeFiles/unit_tests.dir
+D:/automobile/build/CMakeFiles/edit_cache.dir
+D:/automobile/build/CMakeFiles/rebuild_cache.dir
